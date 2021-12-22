@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1608110399 source:c:\users\i-tec\desktop\sujet-8\contact_tel\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"contact_tel.h"
+
+1608110399 c:\users\i-tec\desktop\sujet-8\contact_tel\contact_tel.h
+
+1608110399 source:c:\users\i-tec\desktop\sujet-8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+
+1606602483 source:f:\période-p1\mp-prog c\sujet-8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+
+1606602360 f:\période-p1\mp-prog c\sujet-8\contact_tel\contact_tel.h
+
+1606594401 source:f:\période-p1\mp-prog c\sujet-8\contact_tel\main.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+
+1608110399 source:f:\sujet-8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+
+1608110399 f:\sujet-8\contact_tel\contact_tel.h
+
+1608110399 source:f:\sujet-8\contact_tel\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"contact_tel.h"
+
+1609106676 source:c:\users\i-tec\desktop\work\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1609106359 c:\users\i-tec\desktop\work\contact_tel\contact_tel.h
+
+1609106594 source:c:\users\i-tec\desktop\work\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
+1609935633 source:c:\users\i-tec\desktop\work-irq\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1609671372 c:\users\i-tec\desktop\work-irq\contact_tel\contact_tel.h
+
+1609670885 source:c:\users\i-tec\desktop\work-irq\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
+1610448386 source:f:\work\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1610448386 f:\work\contact_tel\contact_tel.h
+
+1610447942 source:f:\work\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
+1610633319 source:c:\users\i-tec\desktop\mini-projet-sujet 8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1610448386 c:\users\i-tec\desktop\mini-projet-sujet 8\contact_tel\contact_tel.h
+
+1610630496 source:c:\users\i-tec\desktop\mini-projet-sujet 8\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
+1610478053 source:f:\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1610448386 f:\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\contact_tel.h
+
+1610477835 source:f:\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
+1610633319 source:c:\users\i-tec\documents\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1610448386 c:\users\i-tec\documents\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\contact_tel.h
+
+1610706576 source:c:\users\i-tec\documents\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
+1610629720 source:c:\users\msi\desktop\e-learning\1 info 2\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\contact_tel.c
+	<stdio.h>
+	"contact_tel.h"
+	<string.h>
+	<stdlib.h>
+
+1610444788 c:\users\msi\desktop\e-learning\1 info 2\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\contact_tel.h
+
+1610702978 source:c:\users\msi\desktop\e-learning\1 info 2\période-p1\mp-prog c\mini-projet-sujet 8\contact_tel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"contact_tel.h"
+
